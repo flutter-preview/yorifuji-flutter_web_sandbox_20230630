@@ -106,7 +106,10 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'PR/You have pushed the button this many times:',
+              'flutter_web_sandbox_20230630',
+            ),
+            const Text(
+              'You have pushed the button this many times:',
             ),
             Text(
               '$_counter',
